@@ -1,0 +1,5 @@
+com\octopusinvestments\basepage\BasePage.class
+com\octopusinvestments\utility\Utility.class
+com\octopusinvestments\loadproperty\LoadProperty.class
+com\octopusinvestments\browserselector\BrowserSelector.class
+com\octopusinvestments\pages\MainPage.class

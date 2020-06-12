@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Octopus Investments","Verify search tab is working as aspected","SUCCESS","2020-06-12T08:07:37.0902281+01:00[Europe/London]","0.0","66.06"
+"Octopus Investments","Verify all the top bar options are clickalbe","SUCCESS","2020-06-12T08:08:43.1611818+01:00[Europe/London]","0.0","20.88"
+"Octopus Investments","Brochures page navigation","SUCCESS","2020-06-12T08:09:04.0629739+01:00[Europe/London]","0.0","18.9"

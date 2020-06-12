@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Octopus Investments" skipped="0" tests="3" time="105.85" timestamp="2020-06-12 08:07:37"><testcase name="Verify search tab is working as aspected"/><testcase name="Verify all the top bar options are clickalbe"/><testcase name="Brochures page navigation"/></testsuite>
